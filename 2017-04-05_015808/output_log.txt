@@ -1,0 +1,3273 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   21.21.13.7892
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\DOTween.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\DOTween43.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\DOTween46.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\DOTween50.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\Vectrosity.dll (this message is harmless)
+Loading F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\Vectrosity.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on LineManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.817417 ms
+WwiseUnity: Initialize sound engine ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WwiseUnity: Sound engine initialized.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.636994 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 6866.
+Total: 4.311761 ms (FindLiveObjects: 0.224674 ms CreateObjectMapping: 0.203611 ms MarkObjects: 3.690664 ms  DeleteObjects: 0.191459 ms)
+
+Native Resolution:1920 x 1080 @ 60Hz CurrentScreen=1920 x 1027
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CGS] Asgarth1977 [UK]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.340282 ms
+
+Unloading 426 unused Assets to reduce memory usage. Loaded Objects now: 3223.
+Total: 21.032766 ms (FindLiveObjects: 0.128269 ms CreateObjectMapping: 0.130430 ms MarkObjects: 20.058184 ms  DeleteObjects: 0.715341 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342413 ms
+
+Unloading 178 unused Assets to reduce memory usage. Loaded Objects now: 6887.
+Total: 6.803979 ms (FindLiveObjects: 0.223054 ms CreateObjectMapping: 0.147442 ms MarkObjects: 3.581297 ms  DeleteObjects: 2.851373 ms)
+
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Managed\System.Data.dll (this message is harmless)
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game::LoadGame finished in 0.9718037 seconds [25.08029]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSerializer::Load <b><color=green>SUCCESS</color></b>C:\Users\mbaeg\AppData\LocalLow\LVGameDev LLC\SimAirport\SavesDir\Career 1.airport
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shipping 12 to carousel BAG9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (10): 0.938045
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Bought 1 piles for ($9,000.00):</b>
+6x Steel
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Medium Hangar, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (11): 0.9405673
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (12): 0.9399751
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flight delayed...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b><color=green>FLIGHT VALIDATED: </color></b>7 attempt(s), succeeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (13): 0.9359109
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (14): 0.9331084
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (15): 0.9261718
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flight delayed...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Invoke Runway (UnityEngine.GameObject).OnDestroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway PAPI, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b><color=red>DROPPING FLIGHT[2]: </color></b>14 attempt(s), maxAttempts exceeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scheduled Arrival: 278880
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (16): 0.9194946
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway PAPI, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (17): 0.918112
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider2D:INTERNAL_get_bounds (UnityEngine.Bounds&)
+  at UnityEngine.Collider2D.get_bounds () [0x00000] in <filename unknown>:0 
+  at Runway.BestWindEndpoint (Boolean landing) [0x00000] in <filename unknown>:0 
+  at Runway.GeneratePath (Boolean landing) [0x00000] in <filename unknown>:0 
+  at Agent.Aircraft.SetupFlightParams (Boolean forLanding) [0x00000] in <filename unknown>:0 
+  at Agent.Aircraft+<TaxiToRunway_Enter>c__Iterator8.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MonsterLove.StateMachine.<ChangeToNewStateRoutine>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+MonsterLove.StateMachine.StateMachine`1:ChangeState(State, StateTransition, Boolean)
+MonsterLove.StateMachine.StateMachine`1:ChangeState(State, Boolean)
+MonsterLove.StateMachine.<WaitForPreviousTransition>c__Iterator1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename:  Line: -1)
+
+<b><color=green>FLIGHT VALIDATED: </color></b>1 attempt(s), succeeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (18): 0.9167789
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FORCING THE ISSUE -- ONLY RESERVATION SIDE.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (19): 0.9159246
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shipping 82 to carousel BAG8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FORCING THE ISSUE -- ONLY RESERVATION SIDE.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (20): 0.9122194
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (21): 0.9083171
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.947357 ms
+
+Unloading 636 unused Assets to reduce memory usage. Loaded Objects now: 4699.
+Total: 130.018219 ms (FindLiveObjects: 0.288674 ms CreateObjectMapping: 0.253839 ms MarkObjects: 129.007996 ms  DeleteObjects: 0.466902 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.486345 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 8533.
+Total: 131.515076 ms (FindLiveObjects: 0.338092 ms CreateObjectMapping: 0.428286 ms MarkObjects: 130.373871 ms  DeleteObjects: 0.374008 ms)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game::LoadGame finished in 0.9268799 seconds [296.6606]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSerializer::Load <b><color=green>SUCCESS</color></b>C:\Users\mbaeg\AppData\LocalLow\LVGameDev LLC\SimAirport\SavesDir\Career 1.airport
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shipping 12 to carousel BAG9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (10): 0.9376278
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Recalculate adhoc</b> SmartQueueGeometry footprint=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (11): 0.940284
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b><color=green>FLIGHT VALIDATED: </color></b>1 attempt(s), succeeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (12): 0.9394414
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway PAPI, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (13): 0.9368613
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway PAPI, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shipping 125 to carousel BAG8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (14): 0.9318172
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (15): 0.9254513
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flight delayed...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b><color=green>FLIGHT VALIDATED: </color></b>13 attempt(s), succeeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (16): 0.9245166
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (17): 0.9244009
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shipping 56 to carousel BAG7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (18): 0.9219685
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Included: 2068</b>
+RoadNodeMulti 1
+RoadNodeMulti 2
+RoadNodeMulti 3
+RoadNodeMulti 4
+RoadNodeMulti 5
+RoadNodeMulti 6
+RoadNodeMulti 7
+RoadNodeMulti 8
+RoadNodeMulti 9
+RoadNodeMulti 10
+RoadNodeMulti 11
+RoadNodeMulti 12
+RoadNodeMulti 13
+RoadNodeMulti 14
+RoadNodeMulti 15
+RoadNodeMulti 16
+RoadNodeMulti 17
+RoadNodeMulti 18
+RoadNodeMulti 19
+RoadNodeMulti 20
+RoadNodeMulti 21
+RoadNodeMulti 22
+RoadNodeMulti 23
+RoadNodeMulti 24
+RoadNodeMulti 25
+RoadNodeMulti 26
+RoadNodeMulti 27
+RoadNodeMulti 28
+RoadNodeMulti 29
+RoadNodeMulti 30
+RoadNodeMulti 31
+RoadNodeMulti 32
+RoadNodeMulti 33
+RoadNodeMulti 34
+RoadNodeMulti 35
+RoadNodeMulti 36
+RoadNodeMulti 37
+RoadNodeMulti 38
+RoadNodeMulti 39
+RoadNodeMulti 40
+RoadNodeMulti 41
+RoadNodeMulti 42
+RoadNodeMulti 43
+RoadNodeMulti 44
+RoadNodeMulti 45
+RoadNodeMulti 46
+RoadNodeMulti 47
+RoadNodeMulti 48
+RoadNodeMulti 49
+RoadNodeMulti 50
+RoadNodeMulti 51
+RoadNodeMulti 52
+RoadNodeMulti 53
+RoadNodeMulti 54
+RoadNodeMulti 55
+RoadNodeMulti 56
+RoadNodeMulti 57
+RoadNodeMulti 58
+RoadNodeMulti 59
+RoadNodeMulti 60
+RoadNodeMulti 61
+RoadNodeMulti 62
+RoadNodeMulti 63
+RoadNodeMulti 64
+RoadNodeMulti 65
+RoadNodeMulti 66
+RoadNodeMulti 67
+RoadNodeMulti 68
+RoadNodeMulti 69
+RoadNodeMulti 70
+RoadNodeMulti 71
+RoadNodeMulti 72
+RoadNodeMulti 73
+RoadNodeMulti 74
+RoadNodeMulti 75
+RoadNodeMulti 76
+RoadNodeMulti 77
+RoadNodeMulti 78
+RoadNodeMulti 79
+RoadNodeMulti 80
+RoadNodeMulti 81
+RoadNodeMulti 82
+RoadNodeMulti 83
+RoadNodeMulti 84
+RoadNodeMulti 85
+RoadNodeMulti 86
+RoadNodeMulti 87
+RoadNodeMulti 88
+RoadNodeMulti 89
+RoadNodeMulti 90
+RoadNodeMulti 91
+RoadNodeMulti 92
+RoadNodeMulti 93
+RoadNodeMulti 94
+RoadNodeMulti 95
+RoadNodeMulti 96
+RoadNodeMulti 97
+RoadNodeMulti 98
+RoadNodeMulti 99
+RoadNodeMulti 100
+Workman 173
+Workman 174
+Workman 175
+Staff 177
+Security 178
+Staff 179
+Security 180
+Staff 181
+Security 182
+CFO 26095
+Baggage Car 364
+Janitor 169441
+Janitor 26213
+COO 26117
+Staff 2232
+Staff 2235
+Staff 2239
+Staff 232371
+Security 222413
+Security 2621
+Security 2651
+Security 10255
+Workman 7549
+Workman 7552
+Workman 15581
+Security 10281
+Security 10289
+Security 222369
+Workman 15582
+Workman 15583
+Workman 15585
+Workman 15586
+Workman 171805
+Large Sliding Door 17672
+Janitor 169434
+Janitor 169437
+Janitor 26223
+Janitor 26248
+Janitor 26251
+Janitor 169425
+RoadNodeMulti 31806
+RoadNodeMulti 31821
+RoadNodeMulti 31835
+RoadNodeMulti 32528
+RoadNodeMulti 32537
+RoadNodeMulti 32877
+RoadNodeMulti 168448
+RoadNodeMulti 168452
+RoadNodeMulti 168456
+RoadNodeMulti 168458
+RoadNodeMulti 168460
+RoadNodeMulti 168462
+RoadNodeMulti 168464
+RoadNodeMulti 168466
+RoadNodeMulti 168468
+RoadNodeMulti 168470
+RoadNodeMulti 168472
+SupplyPile 194500
+SupplyPile 194498
+SupplyPile 194496
+SupplyPile 194495
+SupplyPile 194497
+SupplyPile 194499
+SupplyPile 194501
+SupplyPile 194503
+SupplyPile 572395
+SupplyPile 446566
+SupplyPile 194494
+SupplyPile 194490
+SupplyPile 194488
+Workman 171808
+Workman 171809
+Workman 171811
+Workman 171816
+Workman 171821
+Workman 171825
+Workman 171827
+Workman 171839
+Workman 171846
+SupplyPile 194492
+SupplyPile 194491
+SupplyPile 194489
+SupplyPile 194493
+Large Sliding Door 175795
+Large Sliding Door 175807
+Baggage Carousel 176756
+Baggage Carousel 176770
+Baggage Carousel 176785
+Baggage Carousel 176799
+Baggage Carousel 177234
+Baggage Carousel 177247
+Baggage Carousel 177261
+Baggage Carousel 177287
+SupplyPile 194388
+SupplyPile 194392
+RoadNodeMulti 194545
+RoadNodeMulti 194546
+RoadNodeMulti 194547
+RoadNodeMulti 194548
+RoadNodeMulti 194549
+RoadNodeMulti 194550
+RoadNodeMulti 194551
+RoadNodeMulti 194552
+RoadNodeMulti 194553
+RoadNodeMulti 194554
+RoadNodeMulti 194555
+RoadNodeMulti 194556
+RoadNodeMulti 194557
+RoadNodeMulti 194558
+RoadNodeMulti 194559
+RoadNodeMulti 194562
+RoadNodeMulti 194563
+RoadNodeMulti 194564
+RoadNodeMulti 194565
+RoadNodeMulti 194566
+RoadNodeMulti 194567
+RoadNodeMulti 194568
+RoadNodeMulti 194569
+RoadNodeMulti 194570
+RoadNodeMulti 194573
+RoadNodeMulti 194574
+RoadNodeMulti 194575
+RoadNodeMulti 194576
+RoadNodeMulti 194577
+RoadNodeMulti 194578
+Dumpster 194581
+Dumpster 194584
+Dumpster 194585
+Dumpster 194586
+Dumpster 194587
+Dumpster 194588
+Dumpster 194591
+Dumpster 194592
+Dumpster 194593
+Dumpster 194594
+Dumpster 194595
+Dumpster 194596
+Dumpster 194597
+Dumpster 194600
+Dumpster 194601
+Dumpster 194602
+Dumpster 194603
+Dumpster 194604
+Dumpster 194605
+Dumpster 194608
+Dumpster 194609
+Dumpster 194610
+Dumpster 194611
+Dumpster 194612
+Storage Shelf 194618
+Storage Shelf 194619
+Storage Shelf 194620
+Storage Shelf 194621
+Storage Shelf 194624
+Storage Shelf 194625
+Storage Shelf 194626
+Storage Shelf 194627
+Storage Shelf 194628
+Storage Shelf 194629
+Storage Shelf 194630
+Storage Shelf 194631
+Storage Shelf 194634
+Storage Shelf 194635
+Storage Shelf 194636
+Storage Shelf 194637
+Storage Shelf 194638
+Storage Shelf 194639
+Storage Shelf 194640
+Storage Shelf 194641
+Storage Shelf 194644
+Storage Shelf 194645
+Storage Shelf 194646
+Storage Shelf 194647
+Storage Shelf 194648
+Storage Shelf 194649
+Storage Shelf 194650
+Storage Shelf 194651
+Storage Shelf 194654
+Storage Shelf 194655
+Storage Shelf 194656
+Storage Shelf 194657
+Storage Shelf 194658
+Storage Shelf 194659
+Storage Shelf 194660
+Storage Shelf 194661
+Storage Shelf 194664
+Storage Shelf 194665
+Storage Shelf 194666
+Storage Shelf 194667
+Storage Shelf 194668
+Storage Shelf 194669
+Storage Shelf 194670
+Storage Shelf 194671
+Storage Shelf 194672
+Storage Shelf 194675
+Storage Shelf 194676
+Storage Shelf 194677
+RoadNodeMulti 194681
+RoadNodeMulti 194682
+RoadNodeMulti 194683
+RoadNodeMulti 194684
+RoadNodeMulti 194685
+RoadNodeMulti 194686
+Large Sliding Door 194736
+Taxiway 195003
+Taxiway 195029
+Taxiway 195031
+Taxiway 195033
+Taxiway 212878
+Taxiway 214879
+Taxiway 214881
+Taxiway 214883
+Taxiway 214885
+Security 222445
+Security 222458
+Taxiway 222927
+Taxiway 222929
+Taxiway 222931
+Taxiway 222933
+Staff 232380
+Taxiway 272079
+Taxiway 274255
+Taxiway 274284
+Security 347681
+Security 280975
+Security 281171
+Security 281180
+Security 281187
+Large Sliding Door 296499
+Staff 297932
+Staff 297941
+Staff 297968
+SupplyPile 569600
+Staff 309421
+SupplyPile 517554
+Security 317839
+Security 317840
+Security 317841
+Security 347728
+Security 347637
+RoadNodeMulti 338296
+RoadNodeMulti 338347
+RoadNodeMulti 338471
+RoadNodeMulti 338473
+RoadNodeMulti 338475
+RoadNodeMulti 338477
+RoadNodeMulti 338479
+RoadNodeMulti 338481
+RoadNodeMulti 338483
+RoadNodeMulti 338485
+RoadNodeMulti 338487
+RoadNodeMulti 338489
+RoadNodeMulti 338491
+RoadNodeMulti 338493
+RoadNodeMulti 338496
+RoadNodeMulti 338498
+RoadNodeMulti 338500
+SupplyPile 569606
+SupplyPile 569805
+SupplyPile 448275
+SupplyPile 569774
+SupplyPile 445704
+SupplyPile 569604
+SupplyPile 569591
+SupplyPile 449307
+SupplyPile 449298
+SupplyPile 429707
+SupplyPile 414073
+SupplyPile 569590
+RoadNodeMulti 412752
+RoadNodeMulti 412753
+RoadNodeMulti 412754
+RoadNodeMulti 412755
+RoadNodeMulti 412756
+RoadNodeMulti 412757
+RoadNodeMulti 412758
+RoadNodeMulti 412759
+RoadNodeMulti 412760
+RoadNodeMulti 412761
+RoadNodeMulti 412762
+RoadNodeMulti 412763
+RoadNodeMulti 412764
+RoadNodeMulti 412765
+RoadNodeMulti 412767
+RoadNodeMulti 412769
+RoadNodeMulti 412771
+RoadNodeMulti 412773
+RoadNodeMulti 412775
+RoadNodeMulti 412777
+RoadNodeMulti 412779
+RoadNodeMulti 412781
+RoadNodeMulti 412783
+RoadNodeMulti 412785
+RoadNodeMulti 412787
+RoadNodeMulti 412789
+RoadNodeMulti 412791
+RoadNodeMulti 412793
+RoadNodeMulti 412795
+RoadNodeMulti 412797
+RoadNodeMulti 412799
+RoadNodeMulti 412866
+RoadNodeMulti 412868
+RoadNodeMulti 412870
+RoadNodeMulti 412872
+RoadNodeMulti 412874
+RoadNodeMulti 412876
+RoadNodeMulti 412878
+RoadNodeMulti 412880
+RoadNodeMulti 412882
+RoadNodeMulti 412884
+RoadNodeMulti 412886
+RoadNodeMulti 412888
+RoadNodeMulti 412890
+RoadNodeMulti 412892
+RoadNodeMulti 412894
+RoadNodeMulti 412896
+RoadNodeMulti 412898
+RoadNodeMulti 412900
+RoadNodeMulti 412902
+RoadNodeMulti 412904
+RoadNodeMulti 412906
+RoadNodeMulti 412908
+RoadNodeMulti 412910
+RoadNodeMulti 412912
+RoadNodeMulti 412914
+RoadNodeMulti 412916
+RoadNodeMulti 412918
+RoadNodeMulti 412920
+RoadNodeMulti 412922
+RoadNodeMulti 412924
+RoadNodeMulti 412926
+Decorative Palm Tree 413082
+Decorative Palm Tree 413085
+Decorative Palm Tree 413090
+Decorative Palm Tree 413095
+Decorative Palm Tree 413097
+Decorative Palm Tree 413099
+Decorative Bush 4 413573
+Decorative Bush 4 413593
+Decorative Bush 4 413597
+Decorative Bush 4 413603
+Decorative Bush 4 413607
+Decorative Bush 4 413611
+Decorative Bush 4 413614
+Decorative Bush 4 413619
+Decorative Bush 4 413623
+Decorative Bush 4 413626
+Decorative Bush 4 413628
+Decorative Bush 4 413631
+Decorative Bush 4 413633
+Decorative Bush 4 413737
+Decorative Bush 4 413824
+Decorative Bush 4 413827
+Decorative Bush 4 413830
+Decorative Bush 4 413832
+Decorative Bush 4 413839
+Decorative Bush 4 413851
+Decorative Bush 5 413879
+Decorative Bush 5 413894
+Decorative Bush 5 413909
+Decorative Bush 5 413921
+Decorative Bush 5 413933
+Decorative Bush 3 413966
+Decorative Bush 3 413999
+Decorative Bush 3 414023
+Decorative Bush 3 414034
+Decorative Bush 3 414052
+Decorative Bush 3 414057
+Decorative Bush 3 414063
+Decorative Bush 3 414074
+Decorative Bush 3 414088
+Decorative Bush 3 414093
+Decorative Bush 3 414109
+Decorative Bush 3 414123
+Decorative Bush 3 414128
+Decorative Bush 3 414137
+Decorative Bush 3 414145
+Decorative Bush 7 414183
+Decorative Bush 7 414247
+Decorative Bush 7 414255
+Decorative Bush 7 414259
+Decorative Bush 7 414264
+Decorative Bush 7 414268
+Decorative Bush 7 414272
+Decorative Bush 7 414288
+Decorative Bush 7 414291
+Decorative Bush 7 414293
+Decorative Bush 7 414300
+Decorative Bush 7 414306
+Decorative Bush 6 414324
+Decorative Bush 6 414327
+Decorative Bush 6 414330
+Decorative Bush 6 414335
+Decorative Bush 6 414338
+Decorative Bush 6 414341
+Decorative Bush 6 414344
+Decorative Bush 6 414349
+Decorative Bush 6 414353
+Decorative Bush 6 414357
+Decorative Tree 414399
+Decorative Bush 6 414433
+Decorative Bush 6 414438
+Decorative Tree 414446
+Decorative Tree 414452
+Decorative Tree 414465
+Decorative Tree 414474
+Decorative Tree 414521
+Decorative Tree 414523
+Decorative Tree 414528
+Decorative Palm Tree 414617
+Decorative Palm Tree 414625
+Decorative Palm Tree 414629
+Decorative Palm Tree 414634
+Decorative Palm Tree 414643
+Bench 416811
+Bench 416839
+Bench 416913
+Bench 416921
+Bench 416934
+Bench 417018
+Bench 417075
+Bench 417095
+Bench 417119
+Bench 417138
+Bench 417146
+Bench 417450
+Bench 418315
+Bench 418357
+Bench 418377
+Bench 418384
+Bench 418392
+Bench 418405
+Bench 418422
+Bench 418431
+Bench 418437
+Bench 418445
+Bench 418458
+Bench 418461
+Janitor 419686
+Janitor 419723
+Janitor 419730
+Janitor 438054
+RoadNodeMulti 422879
+RoadNodeMulti 422880
+RoadNodeMulti 422881
+RoadNodeMulti 422882
+RoadNodeMulti 422883
+RoadNodeMulti 422884
+Bench 428510
+Bench 428513
+Bench 428518
+Bench 428521
+Bench 428523
+Bench 428527
+Bench 428536
+Bench 428541
+Bench 428545
+Bench 428547
+Bench 428549
+Bench 428553
+Bench 428555
+Bench 428557
+Bench 428561
+Bench 428572
+Bench 428574
+Bench 428576
+Bench 428578
+Bench 428583
+Bench 428600
+Bench 428613
+Decorative Plant 428771
+Decorative Plant 428848
+Decorative Plant 428861
+Decorative Plant 428864
+Decorative Plant 428876
+Decorative Plant 428880
+Decorative Plant 428911
+Decorative Plant 428969
+Decorative Plant 428983
+Decorative Plant 428991
+Decorative Plant 428995
+Decorative Plant 429000
+Decorative Plant 429006
+Flight Info Display 432035
+Flight Info Display 432086
+Decorative Bush 2 433785
+Decorative Bush 2 433795
+Decorative Tree 434540
+Decorative Tree 434578
+Decorative Tree 434608
+Decorative Tree 434636
+Decorative Bush 6 434913
+Decorative Bush 6 434922
+Decorative Bush 6 434928
+Decorative Bush 6 434932
+Decorative Bush 6 434944
+Decorative Bush 6 434950
+Decorative Bush 6 434963
+Decorative Bush 6 434970
+Decorative Bush 6 434977
+Decorative Bush 6 435010
+Decorative Bush 7 435128
+Decorative Bush 7 435136
+Decorative Bush 7 435144
+Decorative Bush 7 435157
+Decorative Bush 8 435168
+Decorative Bush 8 435173
+Decorative Tree 435271
+Decorative Tree 435304
+Decorative Tree 435312
+Decorative Tree 435321
+Decorative Palm Tree 435338
+Decorative Palm Tree 435355
+Decorative Palm Tree 435362
+Decorative Palm Tree 435433
+Decorative Bush 4 435459
+Decorative Bush 4 435467
+Decorative Bush 4 435475
+Decorative Bush 4 435481
+Decorative Bush 5 435513
+Decorative Bush 5 435518
+Decorative Bush 5 435526
+Decorative Bush 5 435538
+Decorative Bush 5 435544
+Decorative Bush 5 435553
+Decorative Bush 5 435561
+Decorative Bush 5 435579
+Decorative Bush 5 435591
+Decorative Bush 5 435602
+Decorative Bush 5 435608
+Decorative Bush 5 435618
+Decorative Tree 435695
+Decorative Tree 435731
+Decorative Tree 435740
+Decorative Tree 435743
+Decorative Tree 435768
+Decorative Tree 435791
+Decorative Tree 435813
+Decorative Tree 435832
+Decorative Bush 6 435890
+Decorative Bush 6 435914
+Decorative Bush 6 435935
+Decorative Bush 6 435954
+Tree2 436316
+Tree2 436373
+Tree2 436386
+Tree2 436398
+Tree2 436417
+Tree2 436515
+Tree1 436631
+Tree1 436647
+Tree1 436649
+Tree1 436662
+Tree1 436666
+Tree1 436669
+Tree1 436674
+Tree1 436677
+Tree1 436680
+Tree1 436742
+Janitor 438062
+Janitor 438063
+Janitor 438070
+Decorative Palm Tree 438695
+Decorative Palm Tree 438752
+Decorative Palm Tree 438757
+Decorative Palm Tree 438768
+Decorative Palm Tree 438777
+Decorative Palm Tree 438783
+Decorative Palm Tree 438798
+Decorative Palm Tree 438804
+Decorative Palm Tree 438812
+Decorative Palm Tree 438819
+Decorative Palm Tree 438825
+Decorative Palm Tree 438836
+Decorative Palm Tree 438877
+Decorative Palm Tree 438920
+Decorative Palm Tree 438926
+Decorative Palm Tree 438932
+Decorative Palm Tree 438938
+Decorative Palm Tree 438943
+Decorative Palm Tree 438957
+Decorative Palm Tree 438965
+Decorative Palm Tree 438970
+Decorative Palm Tree 438972
+Decorative Palm Tree 438991
+Decorative Palm Tree 439000
+Decorative Palm Tree 439002
+Decorative Palm Tree 439008
+Decorative Palm Tree 439010
+Decorative Palm Tree 439014
+Decorative Palm Tree 439016
+Decorative Palm Tree 439035
+Decorative Palm Tree 439048
+Decorative Palm Tree 439071
+Decorative Palm Tree 439201
+Decorative Palm Tree 439204
+Decorative Palm Tree 439208
+Decorative Palm Tree 439212
+Decorative Palm Tree 439221
+Decorative Palm Tree 439598
+Decorative Palm Tree 439605
+Decorative Palm Tree 439617
+Decorative Palm Tree 439622
+Decorative Palm Tree 439628
+Decorative Palm Tree 439633
+Decorative Palm Tree 439636
+Decorative Palm Tree 439642
+Decorative Palm Tree 439695
+Decorative Palm Tree 439777
+Decorative Palm Tree 439787
+Decorative Palm Tree 439793
+Decorative Palm Tree 439798
+Decorative Palm Tree 439804
+Decorative Palm Tree 439826
+Decorative Palm Tree 439866
+Decorative Palm Tree 439882
+Decorative Palm Tree 439891
+Decorative Palm Tree 439895
+Decorative Palm Tree 439902
+Decorative Palm Tree 439912
+Decorative Palm Tree 439922
+Decorative Palm Tree 439932
+Decorative Palm Tree 439938
+Bench 448299
+Bench 448321
+Bench 448329
+Bench 448334
+SupplyPile 709728
+Baggage Car 465635
+Baggage Car 465673
+Fuel Truck 465751
+Baggage Car 459003
+Baggage Car 459041
+Fuel Truck 459117
+Baggage Car 716766
+Baggage Car 716767
+Baggage Car 465702
+Fuel Truck 465833
+Security 466806
+SupplyPile 513308
+SupplyPile 507929
+SupplyPile 569788
+DirtyFloor 684035
+SupplyPile 530114
+SupplyPile 530125
+SupplyPile 530131
+SupplyPile 530132
+SupplyPile 530545
+SupplyPile 530546
+SupplyPile 530547
+SupplyPile 530549
+SupplyPile 530551
+SupplyPile 530552
+SupplyPile 530553
+SupplyPile 530554
+SupplyPile 530558
+SupplyPile 530559
+SupplyPile 530560
+SupplyPile 530561
+SupplyPile 530562
+SupplyPile 530563
+SupplyPile 530564
+SupplyPile 530566
+SupplyPile 530567
+SupplyPile 530568
+SupplyPile 530569
+SupplyPile 530570
+SupplyPile 530572
+SupplyPile 530573
+SupplyPile 530574
+SupplyPile 530576
+SupplyPile 530577
+SupplyPile 530578
+SupplyPile 530579
+SupplyPile 530582
+SupplyPile 530586
+SupplyPile 530588
+SupplyPile 530591
+SupplyPile 530592
+SupplyPile 530593
+SupplyPile 530594
+SupplyPile 530595
+SupplyPile 530600
+SupplyPile 530602
+SupplyPile 530604
+SupplyPile 530607
+SupplyPile 530611
+SupplyPile 530615
+SupplyPile 530616
+SupplyPile 530617
+SupplyPile 530618
+SupplyPile 530619
+SupplyPile 530620
+SupplyPile 530621
+SupplyPile 530624
+SupplyPile 530625
+SupplyPile 530626
+SupplyPile 530628
+SupplyPile 530629
+SupplyPile 530630
+SupplyPile 530631
+SupplyPile 530633
+SupplyPile 530634
+SupplyPile 530635
+SupplyPile 530636
+SupplyPile 530639
+SupplyPile 530641
+SupplyPile 530642
+SupplyPile 530643
+SupplyPile 530644
+SupplyPile 530646
+SupplyPile 530647
+SupplyPile 530648
+SupplyPile 530649
+SupplyPile 530650
+SupplyPile 530651
+SupplyPile 530652
+SupplyPile 530653
+SupplyPile 530654
+SupplyPile 530656
+SupplyPile 530657
+SupplyPile 530659
+SupplyPile 530660
+SupplyPile 530661
+SupplyPile 530664
+SupplyPile 530665
+SupplyPile 530667
+SupplyPile 530668
+SupplyPile 530670
+SupplyPile 530671
+SupplyPile 530672
+SupplyPile 530673
+SupplyPile 530674
+SupplyPile 530675
+SupplyPile 530676
+SupplyPile 530678
+SupplyPile 530679
+SupplyPile 530680
+SupplyPile 530682
+SupplyPile 530683
+SupplyPile 530684
+SupplyPile 530685
+SupplyPile 530686
+SupplyPile 530687
+SupplyPile 530689
+SupplyPile 530690
+SupplyPile 530691
+SupplyPile 530692
+SupplyPile 530693
+SupplyPile 530694
+SupplyPile 530695
+SupplyPile 530696
+SupplyPile 530697
+SupplyPile 530698
+SupplyPile 530699
+SupplyPile 530700
+SupplyPile 530701
+SupplyPile 530702
+SupplyPile 530703
+SupplyPile 530705
+SupplyPile 530706
+SupplyPile 530707
+SupplyPile 530708
+SupplyPile 530709
+SupplyPile 530710
+SupplyPile 530711
+SupplyPile 530712
+SupplyPile 530713
+SupplyPile 530714
+SupplyPile 530715
+SupplyPile 530716
+SupplyPile 530717
+SupplyPile 530718
+SupplyPile 530719
+SupplyPile 530721
+SupplyPile 530722
+SupplyPile 530724
+SupplyPile 530727
+SupplyPile 530730
+Security 536205
+Security 536589
+Security 536609
+Security 536755
+Security 543757
+Security 543769
+Security 543771
+Security 543773
+Security 543774
+Security 543775
+Security 543783
+Security 551695
+Security 551717
+Security 570541
+SupplyPile 569614
+Door 569646
+Sink 569653
+Sink 569656
+Sink 569657
+Sink 569658
+Sink 569659
+Sink 569662
+Sink 569663
+Sink 569664
+Sink 569665
+Sink 569666
+Sink 569667
+Sink 569668
+Sink 569669
+Sink 569672
+Sink 569673
+Sink 569674
+Sink 569675
+Sink 569676
+Sink 569677
+Sink 569679
+Sink 569681
+Sink 569684
+Sink 569688
+Sink 569690
+Sink 569693
+Sink 569696
+Sink 569698
+Sink 569700
+Sink 569704
+Toilet 569709
+Toilet 569712
+Toilet 569713
+Toilet 569714
+Toilet 569718
+Toilet 569719
+Toilet 569720
+Toilet 569721
+Toilet 569722
+Toilet 569723
+Toilet 569724
+Toilet 569725
+Toilet 569726
+Toilet 569727
+Toilet 569730
+Toilet 569731
+Toilet 569732
+Toilet 569733
+Toilet 569734
+Toilet 569735
+Toilet 569736
+Toilet 569737
+Toilet 569738
+Toilet 569740
+Toilet 569742
+Toilet 569746
+Toilet 569749
+Toilet 569751
+Toilet 569753
+SupplyPile 569830
+SupplyPile 569836
+SupplyPile 569903
+Large Sliding Door 570161
+Large Sliding Door 570166
+Security Exit 570185
+Security Exit 570186
+Security Exit 570187
+Security Exit 570188
+Bag Scanner 570461
+Bag Scanner 570464
+Bag Scanner 570465
+Bag Scanner 570466
+Bag Scanner 570467
+Bag Scanner 570470
+Bag Scanner 570472
+Bag Scanner 570475
+Bag Scanner 570478
+Bag Scanner 570479
+Bag Scanner 570483
+Bag Scanner 570485
+Bag Scanner 570498
+Bag Scanner 570499
+ID Check Stand 570505
+ID Check Stand 570509
+ID Check Stand 570512
+ID Check Stand 570513
+ID Check Stand 570514
+ID Check Stand 570515
+ID Check Stand 570518
+ID Check Stand 570519
+ID Check Stand 570520
+ID Check Stand 570521
+ID Check Stand 570522
+ID Check Stand 570525
+ID Check Stand 570526
+ID Check Stand 570527
+Security 570542
+Security 570543
+Security 570544
+Security 571798
+SmartQueueGeometry 570603
+SmartQueueGeometry 570616
+Ticketing Kiosk 570739
+Ticketing Kiosk 570742
+Ticketing Kiosk 570743
+Ticketing Kiosk 570744
+Ticketing Kiosk 570745
+Ticketing Kiosk 570746
+Ticketing Kiosk 570749
+Ticketing Kiosk 570750
+Ticketing Kiosk 570751
+Ticketing Kiosk 570752
+Ticketing Kiosk 570753
+Ticketing Kiosk 570754
+Ticketing Kiosk 570757
+Ticketing Kiosk 570758
+Ticketing Kiosk 570759
+Ticketing Kiosk 570760
+Ticketing Kiosk 570762
+Ticketing Kiosk 570765
+Ticketing Kiosk 570769
+Ticketing Kiosk 570773
+Ticketing Kiosk 570775
+Ticketing Kiosk 570777
+Bench 570785
+Bench 570788
+Bench 570789
+Bench 570792
+Bench 570793
+Bench 570796
+Bench 570799
+Bench 570800
+Bench 570803
+Bench 570804
+Bench 570808
+Bench 570811
+Bench 570814
+Bench 570815
+Bench 570816
+Bench 570819
+Bench 570820
+Bench 570821
+Bench 570824
+Bench 570825
+SmartQueueGeometry 570956
+SmartQueueGeometry 570967
+SmartQueueGeometry 570970
+SmartQueueGeometry 570973
+SmartQueueGeometry 570976
+SmartQueueGeometry 570977
+SmartQueueGeometry 570980
+SmartQueueGeometry 570983
+SmartQueueGeometry 570986
+Ticketing Desk 571000
+Ticketing Desk 571003
+Ticketing Desk 571006
+Ticketing Desk 571007
+Ticketing Desk 571008
+Ticketing Desk 571011
+Ticketing Desk 571012
+Ticketing Desk 571013
+Ticketing Desk 571014
+Bench 571098
+Bench 571101
+Bench 571102
+Bench 571106
+Bench 571114
+Bench 571115
+Bench 571122
+Bench 571126
+Bench 571135
+Bench 571137
+Bench 571148
+Bench 571151
+Bench 571162
+Bench 571165
+ATM 571194
+ATM 571201
+ATM 571202
+ATM 571203
+Flight Info Display 571213
+Flight Info Display 571216
+Flight Info Display 571219
+Flight Info Display 571229
+Flight Info Display 571230
+Flight Info Display 571233
+Flight Info Display 571234
+Flight Info Display 571248
+Flight Info Display 571251
+Flight Info Display 571252
+Flight Info Display 571253
+Flight Info Display 571256
+Flight Info Display 571258
+Flight Info Display 571259
+Flight Info Display 571269
+Flight Info Display 571270
+Food Vending 571274
+Food Vending 571277
+Large Sliding Door 571365
+Toilet 571527
+Toilet 571529
+Toilet 571531
+Toilet 571533
+Toilet 571536
+Toilet 571540
+Toilet 571542
+Toilet 571544
+Toilet 571548
+Toilet 571550
+Toilet 571552
+Toilet 571554
+Toilet 571559
+Toilet 571562
+Toilet 571564
+Sink 571567
+Sink 571574
+Sink 571576
+Sink 571579
+Sink 571585
+Sink 571588
+Sink 571593
+Sink 571595
+Door 571616
+Security 571801
+Metal Detector 572204
+Metal Detector 572213
+Metal Detector 572215
+Metal Detector 572219
+Metal Detector 572220
+Metal Detector 572222
+Metal Detector 572227
+Metal Detector 572229
+Metal Detector 572232
+Metal Detector 572234
+Metal Detector 572237
+Metal Detector 572241
+Metal Detector 572250
+Metal Detector 572255
+Passenger Bus 727869
+SupplyPile 692561
+SupplyPile 692471
+Staff 691158
+SupplyPile 692564
+SupplyPile 692588
+SupplyPile 692593
+SupplyPile 697598
+SupplyPile 697597
+SupplyPile 692602
+SupplyPile 692615
+SupplyPile 697596
+SupplyPile 692622
+SupplyPile 692641
+SupplyPile 692652
+SupplyPile 692653
+SupplyPile 709705
+SupplyPile 692662
+SupplyPile 700935
+SupplyPile 700850
+SupplyPile 692738
+SupplyPile 692862
+SupplyPile 700834
+SupplyPile 697605
+SupplyPile 700823
+SupplyPile 697611
+SupplyPile 697614
+SupplyPile 709735
+SupplyPile 709721
+SupplyPile 708689
+SupplyPile 708690
+SupplyPile 708691
+SupplyPile 708692
+SupplyPile 708693
+SupplyPile 708694
+SupplyPile 708695
+SupplyPile 708696
+SupplyPile 708697
+SupplyPile 708698
+SupplyPile 708699
+SupplyPile 708700
+SupplyPile 708701
+SupplyPile 708702
+SupplyPile 708703
+SupplyPile 708704
+SupplyPile 708705
+SupplyPile 708706
+SupplyPile 708707
+SupplyPile 708708
+SupplyPile 708709
+SupplyPile 708712
+SupplyPile 708713
+SupplyPile 708714
+SupplyPile 708715
+SupplyPile 708716
+SupplyPile 708717
+SupplyPile 708718
+SupplyPile 708719
+SupplyPile 708720
+SupplyPile 709639
+SupplyPile 709730
+SupplyPile 709729
+SupplyPile 709722
+SupplyPile 709731
+SupplyPile 709704
+SupplyPile 709706
+SupplyPile 709327
+SupplyPile 709715
+SupplyPile 709719
+SupplyPile 708858
+SupplyPile 708857
+SupplyPile 708856
+SupplyPile 708861
+SupplyPile 708863
+SupplyPile 709657
+SupplyPile 709674
+SupplyPile 709725
+SupplyPile 709710
+SupplyPile 709720
+SupplyPile 709703
+Taxiway 709021
+Taxiway 709022
+Taxiway 709023
+Taxiway 709024
+Taxiway 709025
+Taxiway 709026
+Taxiway 709027
+Taxiway 709028
+Taxiway 709029
+Taxiway 709030
+Taxiway 709031
+Taxiway 709032
+Taxiway 709033
+Taxiway 709034
+Taxiway 709035
+Taxiway 709036
+Taxiway 709037
+Taxiway 709038
+Taxiway 709039
+Taxiway 709040
+Taxiway 709041
+Taxiway 709042
+Taxiway 709043
+Taxiway 709057
+Taxiway 709060
+Taxiway 709061
+Taxiway 709062
+Taxiway 709064
+Taxiway 709066
+Taxiway 709068
+Taxiway 709070
+Taxiway 709072
+Taxiway 709074
+Taxiway 709076
+Taxiway 709078
+Taxiway 709080
+Taxiway 709089
+Taxiway 709094
+Taxiway 709095
+Taxiway 709098
+Taxiway 709099
+Taxiway 709101
+Taxiway 709103
+Taxiway 709343
+Taxiway 709344
+Taxiway 709363
+Taxiway 709371
+SupplyPile 709678
+SupplyPile 709632
+SupplyPile 709702
+SupplyPile 709714
+SupplyPile 709655
+SupplyPile 709660
+SupplyPile 709713
+SupplyPile 709708
+SupplyPile 709663
+SupplyPile 709677
+SupplyPile 709682
+SupplyPile 709716
+SupplyPile 709658
+SupplyPile 709686
+SupplyPile 709671
+SupplyPile 709701
+SupplyPile 709676
+SupplyPile 709649
+SupplyPile 709690
+SupplyPile 709691
+SupplyPile 709694
+SupplyPile 709693
+SupplyPile 709696
+SupplyPile 709698
+SupplyPile 709661
+SupplyPile 709665
+SupplyPile 709633
+SupplyPile 709652
+SupplyPile 709717
+Runway 709494
+SupplyPile 709737
+SupplyPile 709738
+SupplyPile 709739
+SupplyPile 709742
+SupplyPile 709743
+SupplyPile 709744
+SupplyPile 709746
+SupplyPile 709748
+SupplyPile 709750
+SupplyPile 709754
+SupplyPile 709755
+SupplyPile 709756
+SupplyPile 709757
+SupplyPile 709758
+SupplyPile 709760
+SupplyPile 709802
+SupplyPile 709796
+SupplyPile 709797
+SupplyPile 709794
+SupplyPile 710823
+SupplyPile 709801
+Large Sliding Door 709780
+Large Sliding Door 709781
+Large Sliding Door 709782
+SupplyPile 709803
+SupplyPile 710822
+SupplyPile 709807
+SupplyPile 710819
+SupplyPile 711484
+Aircraft Gate Large 709837
+SupplyPile 710069
+SupplyPile 710068
+Aircraft Gate Large 709860
+Aircraft Gate Large 709871
+Aircraft Gate Large 709878
+Large Sliding Door 709908
+Large Sliding Door 709910
+Flight Info Display 710072
+Flight Info Display 710073
+Flight Info Display 710076
+Flight Info Display 710077
+SupplyPile 710825
+Medium Hangar 710269
+Taxiway 710285
+Aircraft Gate Large 710292
+Aircraft Gate Large 710295
+Aircraft Gate Large 710306
+Aircraft Gate Large 710315
+Flight Info Display 711007
+Flight Info Display 711008
+Flight Info Display 711009
+Flight Info Display 711010
+Flight Info Display 711024
+Flight Info Display 711027
+SmartQueueGeometry 711233
+SmartQueueGeometry 711247
+Bench 711252
+Bench 711255
+Bench 711256
+Bench 711257
+Flight Info Display 711261
+Flight Info Display 711264
+Food Vending 711269
+Food Vending 711272
+Bench 711280
+Bench 711283
+Bench 711286
+Bench 711289
+Bench 711294
+Bench 711299
+Bench 711316
+Bench 711319
+Bench 711320
+Bench 711327
+Bench 711328
+Bench 711331
+Bench 711332
+Bench 711333
+Bench 711334
+Bench 711335
+Bench 711338
+Bench 711341
+Bench 711342
+Bench 711343
+Bench 711344
+Bench 711347
+Bench 711348
+Bench 711349
+Food Vending 711356
+Food Vending 711359
+Food Vending 711362
+Electronics Vending 711364
+Electronics Vending 711365
+Electronics Vending 711368
+Electronics Vending 711369
+Garbage Bin 711371
+Garbage Bin 711378
+Garbage Bin 711379
+Garbage Bin 711380
+Gate Agent Desk 711434
+Gate Agent Desk 711437
+Runway PAPI 711561
+Runway PAPI 711565
+Runway ILS 711569
+SupplyPile 711816
+SupplyPile 711817
+SupplyPile 713512
+SupplyPile 713513
+SupplyPile 713517
+SupplyPile 713521
+SupplyPile 713525
+SupplyPile 713526
+Gate Agent Desk 713546
+Gate Agent Desk 713547
+Bench 713553
+Bench 713559
+Bench 713560
+Bench 713562
+Bench 713563
+Bench 713565
+Bench 713574
+Bench 713588
+Bench 713597
+Bench 713607
+Bench 713608
+Bench 713609
+Bench 713610
+Bench 713611
+Bench 713612
+Bench 713613
+Bench 713625
+Bench 713646
+Bench 713648
+Bench 713649
+Bench 713650
+Bench 713651
+Bench 713652
+Bench 713653
+Bench 713656
+Bench 713658
+SmartQueueGeometry 713665
+Bench 713896
+SmartQueueGeometry 714054
+Bench 714200
+SupplyPile 714695
+SupplyPile 714898
+SupplyPile 714897
+SupplyPile 716706
+SupplyPile 716708
+SupplyPile 714710
+Passenger 727927
+Passenger 727564
+SupplyPile 714900
+SupplyPile 714905
+SupplyPile 714920
+SupplyPile 714924
+SupplyPile 714926
+SupplyPile 714959
+Passenger 727691
+SupplyPile 714965
+SupplyPile 714973
+SupplyPile 714978
+SupplyPile 714983
+SupplyPile 714997
+SupplyPile 714998
+Passenger 727387
+Passenger 727923
+Passenger 727446
+Bag 727026
+Passenger 727431
+Passenger 727702
+Passenger 727851
+Passenger 727705
+Passenger 727848
+Passenger 727680
+Passenger 727414
+Passenger 727333
+Passenger 727556
+Passenger 726895
+Passenger 727145
+Passenger 727683
+Passenger 727663
+Passenger 727398
+Passenger 727760
+Passenger 727636
+Passenger 727489
+Passenger 727392
+Passenger 727783
+Taxiway 716707
+SupplyPile 716709
+SupplyPile 716710
+Taxiway 716715
+SupplyPile 716731
+Taxiway 716717
+Taxiway 716733
+Medium Hangar 716736
+Baggage Routing Station 716750
+Baggage Car 716768
+Passenger 727553
+Passenger 727920
+Bench 723875
+Bench 724084
+Bench 724107
+Bench 724138
+Bench 724182
+Bench 724213
+Bench 724237
+Bench 724260
+Bench 724285
+Bench 724651
+Food Vending 724676
+Flight Info Display 724680
+Flight Info Display 724681
+Bench 724685
+Bench 724686
+Bench 724687
+Bench 724690
+Bench 724691
+Bench 724692
+Electronics Vending 724698
+Electronics Vending 724699
+Electronics Vending 724700
+Garbage Bin 724704
+Garbage Bin 724712
+Garbage Bin 724716
+Garbage Bin 724719
+Food Vending 724725
+Food Vending 724741
+Garbage Bin 724894
+Bag 727608
+Bag 727571
+Bag 727175
+Bag 727178
+Bag 727185
+Bag 727190
+Bag 727259
+Bag 727182
+Bag 727188
+SecurityBin 728034
+Passenger 727706
+Passenger 727025
+Passenger 727585
+Passenger 727366
+Passenger 726655
+Passenger 727614
+Passenger 727820
+Passenger 727424
+Passenger 727421
+Passenger 727814
+Passenger 727136
+Passenger 727633
+Passenger 727410
+Passenger 727547
+Passenger 727358
+Passenger 727430
+Passenger 727903
+Passenger 727537
+Passenger 727500
+Passenger 727167
+Passenger 727557
+Passenger 727812
+Passenger 727723
+Passenger 727676
+Passenger 727805
+Passenger 727549
+Passenger 727907
+Passenger 727752
+Passenger 727682
+Passenger 727485
+Passenger 727853
+Passenger Bus 727993
+Passenger 727118
+Passenger 727338
+Passenger 726600
+Passenger 727365
+Passenger 726707
+Passenger 726670
+Passenger 726896
+DirtyFloor 728033
+Passenger 726713
+Passenger 726773
+Passenger 727377
+Passenger 727417
+Passenger 726683
+Passenger 727325
+Passenger 727320
+SecurityBin 728032
+Passenger Vehicle 727845
+SecurityBin 728039
+SecurityBin 728030
+Passenger 727406
+Passenger 727130
+Passenger 726649
+Passenger 727401
+Passenger 727666
+Passenger 727371
+Passenger 727075
+Passenger 727419
+Laptop 727991
+Passenger 727031
+Passenger 727441
+Passenger 727481
+Passenger 727138
+Passenger 727326
+Passenger 727097
+Passenger 726609
+Passenger 727550
+Bag 727028
+Bag 727049
+Bag 727060
+Passenger 726651
+Passenger 727176
+Passenger 727044
+Passenger 727432
+Passenger 727376
+Passenger 727612
+Bag 727065
+Passenger 727056
+Passenger 727374
+Passenger 727207
+Passenger 726894
+Passenger 727418
+Passenger 727329
+Bag 727067
+TrashBag 725226
+Bag 727073
+Passenger 727343
+Passenger 727173
+Passenger 726592
+Passenger 727415
+Bag 727077
+Bag 727091
+Passenger 727570
+Passenger 727027
+Passenger 727404
+Passenger 727046
+Bag 727098
+Passenger 728035
+Passenger 727114
+Bag 727105
+Passenger 727142
+Passenger 727514
+Passenger 727512
+Bag 727108
+Passenger 727956
+Passenger 727504
+Bag 727116
+Bag 727133
+Passenger 727558
+Passenger 727671
+Bag 727135
+Passenger 727646
+Bag 727143
+Passenger 727403
+Bag 727146
+Passenger 727526
+Bag 727148
+Passenger 726828
+Passenger 727591
+Bag 727150
+Passenger 727618
+Passenger 727518
+Bag 727153
+Passenger 727583
+Bag 727160
+Passenger 726599
+Passenger 726767
+Bag 727216
+Bag 727217
+Bag 727219
+Bag 727220
+Bag 727221
+Bag 727222
+Bag 727223
+Bag 727226
+Bag 727227
+Passenger 727669
+Bag 727228
+Passenger 727662
+Bag 727229
+Passenger 727055
+Passenger 727435
+Passenger 727474
+Passenger 727147
+Passenger 727854
+Bag 727230
+Passenger 727352
+Passenger 727574
+Passenger 727315
+Bag 727232
+Bag 727233
+Passenger 727540
+Bag 727235
+Passenger 727510
+Bag 727236
+Passenger 727566
+Bag 727237
+Passenger 727341
+Passenger 727503
+Supplies 725417
+Supplies 725418
+Passenger 726796
+Passenger 727634
+Passenger 727422
+Passenger 727191
+Passenger 727099
+Bag 727238
+Passenger 727062
+Passenger 727047
+Bag 727239
+SecurityBin 728040
+SecurityBin 728038
+Passenger 727790
+Bag 727240
+Passenger 727092
+Passenger 727029
+Passenger 727448
+SecurityBin 728026
+SecurityBin 728031
+SecurityBin 728028
+SecurityBin 728027
+Bag 727241
+Passenger 727426
+Passenger 727742
+Passenger 727604
+Bag 727242
+Passenger 727324
+Passenger 727429
+Passenger 727434
+Passenger 727459
+Passenger 727758
+Bag 727244
+Passenger 727560
+Bag 727245
+Passenger 727598
+Passenger 727383
+Passenger 727428
+Bag 727246
+Passenger 727336
+Passenger 727323
+Passenger 727394
+Passenger 727801
+Bag 727247
+Passenger 727645
+Passenger 727369
+Passenger 727762
+Passenger 727856
+Bag 727248
+Passenger 727754
+Bag 727249
+Passenger 727674
+Bag 727250
+Passenger 727685
+Passenger 727581
+Passenger 727710
+Bag 727251
+Bag 727252
+Bag 727253
+Bag 727254
+Passenger 727453
+Bag 727256
+Passenger 727615
+Bag 727257
+DirtyFloor 728007
+SecurityBin 728036
+SecurityBin 728037
+Bag 727258
+Passenger 727471
+Passenger 727524
+Passenger 727788
+DirtyFloor 728017
+Passenger 727545
+Passenger 727670
+Passenger 727629
+Passenger 727931
+TrashBag 725765
+DirtyFloor 727954
+Bag 727272
+Bag 727375
+Bag 727260
+DirtyFloor 727950
+Bag 727599
+Bag 727793
+Bag 727821
+Bag 727277
+Bag 727577
+Bag 727267
+Bag 727561
+Bag 727567
+Bag 727264
+Bag 727263
+Bag 727261
+Bag 727849
+Bag 727592
+Bag 727482
+Bag 727763
+Bag 727262
+Bag 727268
+Bag 727780
+Bag 727269
+Bag 727457
+Bag 727265
+Bag 727273
+Bag 727274
+Bag 727372
+Bag 727928
+Bag 727855
+Bag 727266
+Bag 727275
+Bag 727797
+Bag 727378
+Bag 727364
+Bag 727584
+Bag 727278
+Bag 727416
+Bag 727337
+Bag 727910
+Bag 727433
+Bag 727405
+Bag 727791
+Bag 727497
+Bag 727400
+Bag 727327
+Bag 727628
+Bag 727411
+Bag 727466
+Bag 727279
+Bag 727346
+Bag 727330
+Bag 727447
+Bag 727767
+Bag 727756
+Bag 727501
+Bag 727425
+Bag 727395
+Bag 727525
+Bag 727559
+Bag 727554
+Bag 727548
+Bag 727703
+Bag 727522
+Bag 727513
+Bag 727508
+Bag 727370
+Bag 727452
+Bag 727924
+Bag 727409
+Passenger 726673
+Passenger 727156
+Passenger 727050
+Passenger 727059
+Passenger 727112
+Passenger 727796
+Passenger 727622
+Passenger 727699
+Passenger 727093
+Passenger 727205
+Passenger 726690
+Passenger 727492
+Passenger 727454
+Passenger 727149
+Passenger 726627
+Passenger 727451
+Passenger 727576
+Passenger 727363
+Passenger 726618
+Passenger 727922
+Passenger 726785
+Passenger 727717
+Passenger 727444
+Passenger 726650
+Passenger 727714
+Passenger 727925
+Passenger 727822
+Passenger 727816
+Passenger 727798
+Passenger 727696
+Passenger 727511
+Passenger 727061
+Passenger 727795
+Passenger 727463
+Passenger 727140
+Passenger 727115
+Passenger 727119
+Passenger 727610
+Passenger 726723
+Passenger 727089
+Passenger 727187
+Passenger 727408
+Passenger 727132
+TrashBag 726039
+Passenger 726686
+Passenger 727607
+Passenger 727776
+Passenger 727350
+Passenger 727823
+Passenger 727373
+Passenger 726060
+Passenger 727600
+Passenger 727367
+Passenger 726064
+Passenger 727063
+Passenger 727064
+Passenger 727921
+Passenger 727423
+Passenger 727104
+Passenger 727794
+Passenger 727090
+Passenger 726604
+Passenger 727356
+Passenger 727203
+Passenger 726376
+Passenger 727697
+Passenger 727076
+Passenger 727620
+Passenger 727807
+Passenger 727100
+Passenger 727157
+Passenger 727359
+Passenger 727755
+Passenger 727074
+Passenger 726642
+Passenger 727137
+Passenger 726402
+Passenger 727094
+Passenger 727647
+Supplies 726120
+Passenger 726121
+Passenger 727596
+Passenger 726638
+Passenger 726391
+Passenger 727772
+Passenger 727101
+Passenger 727438
+Passenger 727768
+Passenger 727053
+Passenger 727109
+Passenger 727775
+Passenger 727111
+Passenger 727456
+Passenger 727057
+Passenger 727713
+Passenger 727715
+Passenger 727720
+Passenger 727069
+Passenger 727707
+Passenger 727527
+Passenger 727066
+Passenger 727151
+Passenger 727770
+Passenger 727909
+Passenger 727601
+Passenger 727177
+Passenger 727206
+Passenger 727698
+Passenger 727110
+TrashBag 726176
+Passenger 727412
+Passenger 727588
+Passenger 727399
+Passenger 727458
+Passenger 727117
+Passenger 727354
+Passenger 727505
+Passenger 727709
+Passenger 727486
+Passenger 726585
+Passenger 727778
+Passenger 727322
+Passenger 726821
+Passenger 726610
+Passenger 727734
+Passenger 726567
+Passenger 727070
+Passenger 727521
+Passenger 727477
+Passenger 726613
+Passenger 726598
+Passenger 727719
+Passenger 726588
+Passenger 726783
+Passenger 727785
+Passenger 726823
+Passenger 727107
+Passenger 727120
+Passenger 727627
+Passenger 727737
+Passenger 727544
+Passenger 727465
+Passenger 727478
+Passenger 727096
+Passenger 727730
+Passenger 727792
+Passenger 726309
+Passenger 727774
+Passenger 727779
+Passenger 727139
+Passenger 727030
+Passenger 727106
+Passenger 726747
+Passenger 727802
+Passenger 726336
+Passenger 726338
+Passenger 727533
+Passenger 727643
+Passenger 726792
+Passenger 727048
+Passenger 726355
+Passenger 727905
+Passenger 726368
+Passenger 727766
+Supplies 726373
+Passenger 727051
+Passenger 727171
+Passenger 726397
+Passenger 726406
+Passenger 727724
+Passenger 726409
+Passenger 727725
+Passenger 726413
+Passenger 726423
+Passenger 726425
+Passenger 726428
+Passenger 727113
+Passenger 727103
+Passenger 727129
+Passenger 726455
+Runway 726458
+Passenger 727712
+Passenger 727095
+Passenger 727507
+Passenger 727058
+Passenger 727204
+Passenger Bus 727994
+Passenger 727072
+Passenger 727152
+Passenger 727587
+Passenger 727580
+Passenger 727174
+Passenger 727158
+Passenger 727179
+Passenger 727312
+Passenger 727825
+Passenger 727168
+Passenger 727184
+Passenger 727154
+Passenger 727496
+Passenger 727131
+Passenger 727169
+Passenger 727134
+Passenger 727799
+Passenger 727159
+Passenger 727362
+Passenger 727181
+Passenger 727144
+Passenger 727155
+Passenger 727189
+Passenger 727162
+Passenger 727141
+Passenger 727700
+Passenger 727516
+Passenger 727345
+Passenger 726553
+Passenger 726554
+Passenger 726556
+Passenger 726569
+TrashBag 726666
+Passenger Bus 727673
+TrashBag 726819
+TrashBag 726829
+TrashBag 726855
+TrashBag 726936
+Airbus A350 727079
+TrashBag 727308
+Phone 728021
+Phone 728020
+SecurityBin 728029
+TrashBag 727943
+TrashBag 728016
+ <b>..... rejected: 429>/b>
+Passenger Bus -1
+Passenger Vehicle -1
+Passenger -1
+Bag -1
+Boeing 707 -1
+Bag -1
+Passenger -1
+Bag -1
+Bag -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+RoadNodeMulti (Runway hidden) 725003
+RoadNodeMulti (Runway hidden) 725004
+RoadNodeMulti (Runway hidden) 725005
+RoadNodeMulti (Runway hidden) 725006
+RoadNodeMulti (Runway hidden) 725007
+RoadNodeMulti (Runway hidden) 725008
+RoadNodeMulti (Runway hidden) 725009
+RoadNodeMulti (Runway hidden) 725010
+RoadNodeMulti (Runway hidden) 725011
+SecurityBin -1
+Bag -1
+Bag -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+RampAgent -1
+Passenger Bus -1
+RampAgent -1
+Bag -1
+Passenger -1
+Bag -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Bag -1
+Bag -1
+Passenger -1
+Phone -1
+DirtyFloor -1
+Passenger -1
+Passenger -1
+Passenger -1
+Phone -1
+Phone -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Phone -1
+Passenger -1
+Passenger -1
+Phone -1
+Passenger -1
+Passenger -1
+Phone -1
+Phone -1
+Phone -1
+Passenger -1
+Passenger Vehicle -1
+Phone -1
+Phone -1
+Phone -1
+Phone -1
+Passenger -1
+Passenger Vehicle -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+SecurityBin -1
+Passenger -1
+Passenger -1
+Laptop -1
+Passenger -1
+Passenger -1
+Passenger -1
+Laptop -1
+SecurityBin -1
+SecurityBin -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Laptop -1
+DirtyFloor -1
+Passenger -1
+Passenger -1
+Boeing 747 -1
+Passenger -1
+Passenger -1
+DirtyFloor -1
+DirtyFloor -1
+DirtyFloor -1
+DirtyFloor -1
+Passenger -1
+DirtyFloor -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+DirtyFloor -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+DirtyFloor -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+DirtyFloor -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Bag -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Bag -1
+Passenger -1
+Passenger -1
+Passenger -1
+ConstructionIndicator -1
+Passenger -1
+Passenger -1
+Passenger -1
+Passenger -1
+Bag -1
+Bag -1
+Passenger -1
+Passenger -1
+Bag -1
+Passenger -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Bag -1
+Phone -1
+Bag -1
+Bag -1
+Bag -1
+DirtyFloor -1
+Passenger Vehicle -1
+Runway 727532
+Laptop -1
+Phone -1
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring non-null reference to pooled object: DirtyFloor -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring non-null reference to pooled object: Boeing 707 -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring non-null reference to pooled object: Boeing 707 -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring non-null reference to pooled object: Boeing 707 -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring non-null reference to pooled object: Boeing 747 -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring non-null reference to pooled object: Boeing 707 -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSerializer::Save C:/Users/mbaeg/AppData/LocalLow/LVGameDev LLC/SimAirport\SavesDir\Career 1.airport
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flight delayed...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b><color=green>FLIGHT VALIDATED: </color></b>13 attempt(s), succeeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (19): 0.9202403
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (20): 0.9185695
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shipping 82 to carousel BAG6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (21): 0.9140024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flight delayed...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b><color=red>DROPPING FLIGHT[2]: </color></b>14 attempt(s), maxAttempts exceeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scheduled Arrival: 279240
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Bought Runway Lights for -25000:</b>
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (22): 0.9108164
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (1): 0.8947935
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>On midnight day 195, generating flights for day 196 (at least 24 hrs in advance)</b>
+Yesterday: 7 Today: 7 Tomorrow: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Finalizing report data for day 194
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reneging on 1 offer(s) now for SmartAir Luxe || Total Offers: 3, Total Accepted: 0, should have: 2 max.  
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reneging on 1 offer(s) now for WestJet || Total Offers: 1, Total Accepted: 0, should have: 0 max.  
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reneging on 1 offer(s) now for AeroStar || Total Offers: 1, Total Accepted: 0, should have: 0 max.  
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (2): 0.873659
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (3): 0.9040825
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+prevalidation took 1844.849ms. 49594 valid, 400 bad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Invoke Runway (UnityEngine.GameObject).OnDestroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (4): 0.9208828
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b><color=green>FLIGHT VALIDATED: </color></b>1 attempt(s), succeeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (5): 0.9233065
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shipping 19 to carousel BAG5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (6): 0.9182
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+prevalidation took 1669.922ms. 48686 valid, 1300 bad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (7): 0.9043847
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+prevalidation took 1882.019ms. 48492 valid, 1500 bad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+prevalidation took 1715.576ms. 48500 valid, 1500 bad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b><color=green>FLIGHT VALIDATED: </color></b>1 attempt(s), succeeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway PAPI, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (8): 0.8952528
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway PAPI, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway ILS, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dismantled Runway, producing supplies
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+prevalidation took 2134.644ms. 48600 valid, 1400 bad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shipping 2 to carousel BAG4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (9): 0.9005339
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (10): 0.9074048
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b><color=green>FLIGHT VALIDATED: </color></b>1 attempt(s), succeeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (11): 0.9099038
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shipping 16 to carousel BAG3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Bought Runway Lights for -25000:</b>
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (12): 0.9102019
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (13): 0.914591
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b><color=green>FLIGHT VALIDATED: </color></b>1 attempt(s), succeeded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (14): 0.9152328
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (15): 0.914196
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shipping 91 to carousel BAG2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+prevalidation took 4112.671ms. 47287 valid, 400 bad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sampling satisfaction (16): 0.9100828
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;F:\Steam Games\steamapps\common\SimAirport;F:\Steam Games\steamapps\common\SimAirport;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'mbaeg'
+OS-Version: 10.0.14393 () 0x100-0x1
+F:\Steam Games\steamapps\common\SimAirport\SimAirport.exe:SimAirport.exe (00B60000), size: 19062784 (result: 0), SymType: '-exported-', PDB: 'F:\Steam Games\steamapps\common\SimAirport\SimAirport.exe', fileVersion: 5.5.0.46319
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (772F0000), size: 1585152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 10.0.14393.479
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (75E80000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNEL32.DLL', fileVersion: 10.0.14393.0
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (76C60000), size: 1708032 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNELBASE.dll', fileVersion: 10.0.14393.953
+C:\Windows\System32\USER32.dll:USER32.dll (76730000), size: 1437696 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\USER32.dll', fileVersion: 10.0.14393.576
+C:\Windows\System32\win32u.dll:win32u.dll (76AC0000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\win32u.dll', fileVersion: 10.0.14393.51
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (66550000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 10.0.14393.0
+C:\Windows\System32\GDI32.dll:GDI32.dll (751B0000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\GDI32.dll', fileVersion: 10.0.14393.206
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (76AE0000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcrt.dll', fileVersion: 7.0.14393.0
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (77190000), size: 1421312 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\gdi32full.dll', fileVersion: 10.0.14393.953
+C:\Windows\System32\ole32.dll:ole32.dll (759B0000), size: 958464 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ole32.dll', fileVersion: 10.0.14393.576
+C:\Windows\System32\combase.dll:combase.dll (76F70000), size: 2166784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\combase.dll', fileVersion: 10.0.14393.576
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (75AA0000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ucrtbase.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (75B80000), size: 790528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\RPCRT4.dll', fileVersion: 10.0.14393.82
+C:\Windows\System32\SspiCli.dll:SspiCli.dll (73DB0000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SspiCli.dll', fileVersion: 10.0.14393.576
+C:\Windows\System32\CRYPTBASE.dll:CRYPTBASE.dll (73DA0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CRYPTBASE.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (72F20000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (76E80000), size: 368640 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcryptPrimitives.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\sechost.dll:sechost.dll (76BA0000), size: 266240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\sechost.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (75960000), size: 286720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHLWAPI.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (751E0000), size: 487424 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ADVAPI32.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (73DD0000), size: 20811776 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHELL32.dll', fileVersion: 10.0.14393.953
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (75CD0000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\cfgmgr32.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\windows.storage.dll:windows.storage.dll (761C0000), size: 5693440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\windows.storage.dll', fileVersion: 10.0.14393.953
+C:\Windows\System32\powrprof.dll:powrprof.dll (76C10000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\powrprof.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\kernel.appcore.dll:kernel.appcore.dll (75F60000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\kernel.appcore.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\shcore.dll:shcore.dll (75FF0000), size: 557056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\shcore.dll', fileVersion: 10.0.14393.953
+C:\Windows\System32\profapi.dll:profapi.dll (75E00000), size: 61440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\profapi.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (75E10000), size: 405504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WS2_32.dll', fileVersion: 10.0.14393.206
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (76A20000), size: 606208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\OLEAUT32.dll', fileVersion: 10.0.14393.447
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (75C50000), size: 503808 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcp_win.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\IMM32.dll:IMM32.dll (75430000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\IMM32.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (65260000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (736D0000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (70810000), size: 512000 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.14393.953
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (71150000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.14393.953
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (70240000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.14393.953
+C:\Windows\System32\NSI.dll:NSI.dll (76C00000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\NSI.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (72F30000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\DDRAW.dll:DDRAW.dll (62BC0000), size: 970752 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DDRAW.dll', fileVersion: 10.0.14393.953
+C:\Windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (73600000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMMBASE.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (737D0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DCIMAN32.dll', fileVersion: 10.0.14393.0
+C:\Program Files (x86)\Steam\gameoverlayrenderer.dll:gameoverlayrenderer.dll (0FAC0000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\gameoverlayrenderer.dll', fileVersion: 3.89.14.2
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (76890000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PSAPI.DLL', fileVersion: 10.0.14393.0
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (73BB0000), size: 479232 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 10.0.14393.0
+F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Mono\mono.dll:mono.dll (10000000), size: 2297856 (result: 0), SymType: '-exported-', PDB: 'F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (704C0000), size: 319488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (76080000), size: 1265664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MSCTF.dll', fileVersion: 10.0.14393.953
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (73770000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 10.0.14393.206
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (655A0000), size: 2293760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d11.dll', fileVersion: 10.0.14393.953
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (68680000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 10.0.14393.953
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_f37f8f12da8b10d7\nvwgf2um.dll:nvwgf2um.dll (524F0000), size: 21118976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_f37f8f12da8b10d7\nvwgf2um.dll', fileVersion: 21.21.13.7892
+C:\Windows\SYSTEM32\bcrypt.dll:bcrypt.dll (73420000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcrypt.dll', fileVersion: 10.0.14393.576
+C:\Windows\system32\nvspcap.dll:nvspcap.dll (68AE0000), size: 1474560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvspcap.dll', fileVersion: 3.4.0.70
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (75550000), size: 4239360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SETUPAPI.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (72BC0000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WTSAPI32.dll', fileVersion: 10.0.14393.0
+C:\Windows\system32\nvapi.dll:nvapi.dll (68710000), size: 3821568 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvapi.dll', fileVersion: 21.21.13.7892
+C:\Windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (733A0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DEVOBJ.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\WINTRUST.dll:WINTRUST.dll (75500000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WINTRUST.dll', fileVersion: 10.0.14393.953
+C:\Windows\System32\MSASN1.dll:MSASN1.dll (05E90000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MSASN1.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (768A0000), size: 1560576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CRYPT32.dll', fileVersion: 10.0.14393.351
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (76EE0000), size: 540672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (70590000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemprox.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (70520000), size: 421888 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wbemcomn.dll', fileVersion: 10.0.14393.0
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (6D410000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemsvc.dll', fileVersion: 10.0.14393.0
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (6D340000), size: 794624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\fastprox.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (12160000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (6CFD0000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MMDevApi.dll', fileVersion: 10.0.14393.953
+C:\Windows\System32\PROPSYS.dll:PROPSYS.dll (6EE30000), size: 1372160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PROPSYS.dll', fileVersion: 7.0.14393.0
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (6CF00000), size: 503808 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.14393.953
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (6CE30000), size: 847872 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wintypes.dll', fileVersion: 10.0.14393.953
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (70450000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTSP.dll', fileVersion: 10.0.14393.0
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (70420000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (6D090000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (6D070000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc.DLL', fileVersion: 10.0.14393.0
+F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Plugins\AkSoundEngine.dll:AkSoundEngine.dll (12B30000), size: 1433600 (result: 0), SymType: '-exported-', PDB: 'F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Plugins\AkSoundEngine.dll'
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (6D200000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\rasadhlp.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\XAudio2_9.dll:XAudio2_9.dll (053C0000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\XAudio2_9.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\AVRT.dll:AVRT.dll (6CF80000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVRT.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (6D1B0000), size: 299008 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\fwpuclnt.dll', fileVersion: 10.0.14393.0
+F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Plugins\CSteamworks.dll:CSteamworks.dll (12A90000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'F:\Steam Games\steamapps\common\SimAirport\SimAirport_Data\Plugins\CSteamworks.dll', fileVersion: 1.24.0.0
+F:\Steam Games\steamapps\common\SimAirport\steam_api.dll:steam_api.dll (12AC0000), size: 200704 (result: 0), SymType: '-exported-', PDB: 'F:\Steam Games\steamapps\common\SimAirport\steam_api.dll', fileVersion: 2.89.45.4
+C:\Program Files (x86)\Steam\steamclient.dll:steamclient.dll (41150000), size: 11104256 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamclient.dll', fileVersion: 3.89.14.2
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (75F70000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\imagehlp.dll', fileVersion: 10.0.14393.0
+C:\Program Files (x86)\Steam\tier0_s.dll:tier0_s.dll (64E90000), size: 1142784 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\tier0_s.dll', fileVersion: 3.89.14.2
+C:\Program Files (x86)\Steam\vstdlib_s.dll:vstdlib_s.dll (73710000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\vstdlib_s.dll', fileVersion: 3.89.14.2
+C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (67D80000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\Secur32.dll', fileVersion: 10.0.14393.0
+C:\Program Files (x86)\Steam\steam.dll:steam.dll (50630000), size: 1298432 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steam.dll'
+C:\Program Files (x86)\Steam\Steam2.dll:Steam2.dll (400C0000), size: 2887680 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\Steam2.dll', fileVersion: 2.0.2117.156
+C:\Windows\SYSTEM32\DbgHelp.dll:DbgHelp.dll (5E4D0000), size: 1331200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DbgHelp.dll', fileVersion: 10.0.14321.1024
+C:\Windows\SYSTEM32\dbgcore.DLL:dbgcore.DLL (3FC20000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbgcore.DLL', fileVersion: 10.0.14321.1024
+C:\Program Files (x86)\Steam\CSERHelper.dll:CSERHelper.dll (60000000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\CSERHelper.dll', fileVersion: 4.50.0.0
+C:\Windows\SYSTEM32\mscms.dll:mscms.dll (64790000), size: 544768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\mscms.dll', fileVersion: 10.0.14393.953
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (72BD0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USERENV.dll', fileVersion: 10.0.14393.0
+C:\Windows\SYSTEM32\icm32.dll:icm32.dll (3FA20000), size: 249856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\icm32.dll', fileVersion: 10.0.14393.953
+
+========== OUTPUTING STACK TRACE ==================
+
+0x00CBB2C8 (SimAirport) physx::shdfnd::Allocator::`default constructor closure'
+0x00CE7787 (SimAirport) physx::shdfnd::Allocator::`default constructor closure'
+0x00CE6E06 (SimAirport) physx::shdfnd::Allocator::`default constructor closure'
+0x00CE7AF9 (SimAirport) physx::shdfnd::Allocator::`default constructor closure'
+0x00CE670C (SimAirport) physx::shdfnd::Allocator::`default constructor closure'
+0x00DC5D84 (SimAirport) physx::shdfnd::Foundation::getPAUtils
+0x0126FAC6 (SimAirport) physx::shdfnd::ErrorHandler::getErrorCallback
+0x01274FDE (SimAirport) physx::shdfnd::ErrorHandler::getErrorCallback
+0x00D8582F (SimAirport) physx::shdfnd::Foundation::getPAUtils
+0x75E962C4 (KERNEL32) BaseThreadInitThunk
+0x77350FD9 (ntdll) RtlSubscribeWnfStateChangeNotification
+0x77350FA4 (ntdll) RtlSubscribeWnfStateChangeNotification
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
